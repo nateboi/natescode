@@ -1,0 +1,10 @@
+What does cpu stand for A)central proccess unit B) command promt unit
+how many bits in a byte A)48 B)8
+how many cycles per sencond is 1hz A)10 B)1
+what does ROM stand for A)right on memory B) read only memory
+what does RAM stand for A)random access memory B) read any memory
+how many megabytes in a gigabyte A)1024 B)1942
+What is the full meaning of V.D.U A)  Visual display unit B)  Visual dislike unit
+0,1,2 to 9 is called A) Function keys  B)  Numerical keys
+F1 to F12 is called A)  Function keys B)  Numeric keys
+the part of the computer used to store information is called A)Monitor B)  CPU 
